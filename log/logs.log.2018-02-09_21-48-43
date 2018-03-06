@@ -1,0 +1,95 @@
+2018-02-09 21:49:22,360 [INFO] Action - On commence a droite
+2018-02-09 21:49:22,614 [INFO] Action - On commence le calcul des differentes cartes
+2018-02-09 21:49:22,619 [INFO] Action - Debut de la competition
+2018-02-09 21:49:22,634 [INFO] Cartes - Debut du calcul (en cache) de la carte numero 0
+2018-02-09 21:49:22,828 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:23,366 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:23,905 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:24,443 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:24,981 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:25,520 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:26,059 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:26,597 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:27,137 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:27,506 [INFO] Cartes - Fin du calcul (en cache) de la carte numero 0 en 4.74220705032
+2018-02-09 21:49:27,610 [INFO] Cartes - Debut du calcul (en cache) de la carte numero 1
+2018-02-09 21:49:27,728 [INFO] Coords - Position du robot x = 500, y = 500, theta = 20, etat = 0
+2018-02-09 21:49:27,729 [INFO] Action - Debut de l'execution de l'action : deplacer
+2018-02-09 21:49:27,741 [INFO] Chemin - Debut du calcul du chemin de l'action
+2018-02-09 21:49:27,746 [INFO] Chemin - Fin du calcul du chemin
+2018-02-09 21:49:27,748 [DEBUG] Chemin - Chemin du robot : [['de', 'dedr'], [(400, 500), (202, 302)]]
+2018-02-09 21:49:27,750 [DEBUG] Chemin - Chemin du robot : [['de', 'dedr'], [(400, 500), (200, 300)]]
+2018-02-09 21:49:27,759 [INFO] Transm - Communication au DSPic : tourner de 160
+2018-02-09 21:49:28,275 [INFO] Coords - Position du robot x = 499, y = 499, theta = 20, etat = 3
+2018-02-09 21:49:28,814 [INFO] Coords - Position du robot x = 499, y = 500, theta = 30, etat = 3
+2018-02-09 21:49:29,353 [INFO] Coords - Position du robot x = 500, y = 500, theta = 39, etat = 3
+2018-02-09 21:49:29,897 [INFO] Coords - Position du robot x = 500, y = 500, theta = 48, etat = 3
+2018-02-09 21:49:30,436 [INFO] Coords - Position du robot x = 500, y = 500, theta = 57, etat = 3
+2018-02-09 21:49:30,974 [INFO] Coords - Position du robot x = 501, y = 501, theta = 66, etat = 3
+2018-02-09 21:49:31,514 [INFO] Coords - Position du robot x = 501, y = 501, theta = 75, etat = 3
+2018-02-09 21:49:32,060 [INFO] Coords - Position du robot x = 501, y = 502, theta = 85, etat = 3
+2018-02-09 21:49:32,599 [INFO] Coords - Position du robot x = 501, y = 502, theta = 94, etat = 3
+2018-02-09 21:49:32,608 [INFO] Cartes - Fin du calcul (en cache) de la carte numero 1 en 4.72904109955
+2018-02-09 21:49:32,609 [INFO] Cartes - Debut du calcul (en cache) de la carte numero 2
+2018-02-09 21:49:33,138 [INFO] Coords - Position du robot x = 501, y = 503, theta = 103, etat = 3
+2018-02-09 21:49:33,680 [INFO] Coords - Position du robot x = 501, y = 503, theta = 113, etat = 3
+2018-02-09 21:49:34,218 [INFO] Coords - Position du robot x = 500, y = 504, theta = 121, etat = 3
+2018-02-09 21:49:34,764 [INFO] Coords - Position du robot x = 500, y = 504, theta = 131, etat = 3
+2018-02-09 21:49:35,303 [INFO] Coords - Position du robot x = 500, y = 504, theta = 140, etat = 3
+2018-02-09 21:49:35,842 [INFO] Coords - Position du robot x = 499, y = 505, theta = 149, etat = 3
+2018-02-09 21:49:36,381 [INFO] Coords - Position du robot x = 499, y = 505, theta = 158, etat = 3
+2018-02-09 21:49:36,920 [INFO] Coords - Position du robot x = 499, y = 505, theta = 167, etat = 3
+2018-02-09 21:49:37,461 [INFO] Cartes - Fin du calcul (en cache) de la carte numero 2 en 4.72744202614
+2018-02-09 21:49:37,466 [INFO] Coords - Position du robot x = 498, y = 505, theta = 176, etat = 3
+2018-02-09 21:49:37,973 [INFO] Transm - Communication au DSPic : avancer en position x = 400, y = 500
+2018-02-09 21:49:38,004 [INFO] Coords - Position du robot x = 498, y = 505, theta = 181, etat = 1
+2018-02-09 21:49:38,543 [INFO] Coords - Position du robot x = 478, y = 505, theta = 180, etat = 1
+2018-02-09 21:49:39,087 [INFO] Coords - Position du robot x = 457, y = 505, theta = 179, etat = 1
+2018-02-09 21:49:39,626 [INFO] Coords - Position du robot x = 437, y = 505, theta = 178, etat = 1
+2018-02-09 21:49:40,165 [INFO] Coords - Position du robot x = 418, y = 506, theta = 177, etat = 1
+2018-02-09 21:49:40,711 [INFO] Coords - Position du robot x = 401, y = 506, theta = 178, etat = 1
+2018-02-09 21:49:41,104 [INFO] Transm - Communication au DSPic : tourner de 47
+2018-02-09 21:49:41,249 [INFO] Coords - Position du robot x = 396, y = 506, theta = 178, etat = 3
+2018-02-09 21:49:41,788 [INFO] Coords - Position du robot x = 396, y = 506, theta = 178, etat = 3
+2018-02-09 21:49:42,327 [INFO] Coords - Position du robot x = 396, y = 506, theta = 179, etat = 3
+2018-02-09 21:49:42,866 [INFO] Coords - Position du robot x = 396, y = 506, theta = 186, etat = 3
+2018-02-09 21:49:43,412 [INFO] Coords - Position du robot x = 395, y = 506, theta = 195, etat = 3
+2018-02-09 21:49:43,951 [INFO] Coords - Position du robot x = 395, y = 506, theta = 204, etat = 3
+2018-02-09 21:49:44,491 [INFO] Coords - Position du robot x = 394, y = 506, theta = 213, etat = 3
+2018-02-09 21:49:45,030 [INFO] Coords - Position du robot x = 394, y = 506, theta = 223, etat = 3
+2018-02-09 21:49:45,480 [INFO] Transm - Communication au DSPic : avancer en position x = 200, y = 300
+2018-02-09 21:49:45,569 [INFO] Coords - Position du robot x = 393, y = 505, theta = 227, etat = 1
+2018-02-09 21:49:46,108 [INFO] Coords - Position du robot x = 379, y = 490, theta = 225, etat = 1
+2018-02-09 21:49:46,654 [INFO] Coords - Position du robot x = 364, y = 475, theta = 224, etat = 1
+2018-02-09 21:49:47,193 [INFO] Coords - Position du robot x = 349, y = 460, theta = 223, etat = 1
+2018-02-09 21:49:47,733 [INFO] Coords - Position du robot x = 334, y = 446, theta = 222, etat = 1
+2018-02-09 21:49:48,272 [INFO] Coords - Position du robot x = 319, y = 432, theta = 221, etat = 1
+2018-02-09 21:49:48,811 [INFO] Coords - Position du robot x = 303, y = 419, theta = 220, etat = 1
+2018-02-09 21:49:49,357 [INFO] Coords - Position du robot x = 286, y = 405, theta = 219, etat = 1
+2018-02-09 21:49:49,902 [INFO] Coords - Position du robot x = 270, y = 392, theta = 218, etat = 1
+2018-02-09 21:49:50,441 [INFO] Coords - Position du robot x = 254, y = 379, theta = 216, etat = 1
+2018-02-09 21:49:50,980 [INFO] Coords - Position du robot x = 237, y = 367, theta = 215, etat = 1
+2018-02-09 21:49:51,526 [INFO] Coords - Position du robot x = 220, y = 355, theta = 214, etat = 1
+2018-02-09 21:49:52,065 [INFO] Coords - Position du robot x = 202, y = 343, theta = 213, etat = 1
+2018-02-09 21:49:52,604 [INFO] Coords - Position du robot x = 185, y = 332, theta = 212, etat = 1
+2018-02-09 21:49:53,143 [INFO] Coords - Position du robot x = 174, y = 325, theta = 211, etat = 0
+2018-02-09 21:49:53,180 [INFO] Chemin - Debut du calcul du chemin de l'action
+2018-02-09 21:49:53,185 [INFO] Chemin - Fin du calcul du chemin
+2018-02-09 21:49:53,195 [INFO] Transm - Communication au DSPic : tourner de 329
+2018-02-09 21:49:53,682 [INFO] Coords - Position du robot x = 168, y = 322, theta = 209, etat = 4
+2018-02-09 21:49:54,222 [INFO] Coords - Position du robot x = 168, y = 322, theta = 209, etat = 4
+2018-02-09 21:49:54,761 [INFO] Coords - Position du robot x = 168, y = 322, theta = 207, etat = 4
+2018-02-09 21:49:55,309 [INFO] Coords - Position du robot x = 168, y = 322, theta = 202, etat = 4
+2018-02-09 21:49:55,848 [INFO] Coords - Position du robot x = 168, y = 322, theta = 195, etat = 4
+2018-02-09 21:49:56,387 [INFO] Coords - Position du robot x = 168, y = 322, theta = 188, etat = 4
+2018-02-09 21:49:56,926 [INFO] Coords - Position du robot x = 168, y = 322, theta = 181, etat = 4
+2018-02-09 21:49:57,365 [INFO] Transm - Communication au DSPic : avancer en position x = 400, y = 500
+2018-02-09 21:49:57,491 [INFO] Coords - Position du robot x = 167, y = 322, theta = 177, etat = 1
+2018-02-09 21:49:58,030 [INFO] Coords - Position du robot x = 146, y = 323, theta = 176, etat = 1
+2018-02-09 21:49:58,569 [INFO] Coords - Position du robot x = 125, y = 325, theta = 175, etat = 1
+2018-02-09 21:49:59,108 [INFO] Coords - Position du robot x = 104, y = 326, theta = 174, etat = 1
+2018-02-09 21:49:59,647 [INFO] Coords - Position du robot x = 84, y = 329, theta = 173, etat = 1
+2018-02-09 21:50:00,193 [INFO] Coords - Position du robot x = 63, y = 332, theta = 171, etat = 1
+2018-02-09 21:50:00,741 [INFO] Coords - Position du robot x = 42, y = 335, theta = 170, etat = 1
+2018-02-09 21:50:01,279 [INFO] Coords - Position du robot x = 21, y = 338, theta = 169, etat = 1
+2018-02-09 21:50:01,819 [INFO] Coords - Position du robot x = 1, y = 342, theta = 168, etat = 1

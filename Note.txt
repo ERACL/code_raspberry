@@ -1,0 +1,5 @@
+Pour prendre en compte les murs, je dois créer une nouvelle sortie de la fonction chemin qui correspond au moment ou je suis prêt des mur (plus précisément au démarrage : à l'arrivée le robot avance comme si de rien n'était). Il faut aussi configurer la fonction "Calcul chemin" pour que lorsque le départ ou l'arrivée sont proche de mur (<20 cm), on force une ligne droite pour finir (dans la direction finale).
+
+Reorienter le robot apres avoir effectue un deplacement a 0 ou 45 ou 90 ou 135 ou 180 ou ...
+
+Mettre a le jour le chemin apres avoir pris en compte les murs

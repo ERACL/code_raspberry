@@ -1,0 +1,8 @@
+Il reste a faire :
+	- prendre en compte de l'approche des murs dans le calcul du deplacement FAIT
+	- integrer les ultrasons
+	- ecrire les fonctions communication en position FAIT
+	- les utiliser (ou leur donner le nom des anciennes fonctions) FAIT
+	- integrer des log FAIT
+	- coder les actions (comme le recallage)
+	- intégrer les actionneurs (Discuter avec les respo actionneur)
